@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">Årestua Hut</string>
+    <string name="title_activity_main">Jenny Creek to Årestua Hut</string>
+    <string name="AxsJCrk"><b><i>Jenny Creek/Guinn Mountain Route:</i></b> November through mid April the hut is accessed from the Jenny Creek trail.
+        Overnight parking is located east of the resort\'s stone wall entrance. Pass through during the ski resort\'s
+        hours of operation. The approach for the winter season route is about 4.5 miles distance and 2000 feet of elevation gain.
+        A track of the Jenny creek route can be obtained by clicking Jenny Creek to Årestua Hut GPS Track. <b>Know Before You Go Tip:</b>
+        Current weather conditions on the highway near Nederland can be assessed from this webpage containing several webcams.
+        Additional information about the Jenny Creek trail (National Forest trail #808) can be obtained from this USFS webpage.
+    </string>
+    <string name="AxsLake"><b><i>Lost Lake-Pipeline Route:</i></b> Throughout the entire year, the hut may be accessed via the Lost Lake-Pipeline
+        route in the Indian Peaks wilderness area. <b>Summer:</b> The Lost Lake-Pipeline route is 4 miles in distance and 2000 feet in elevation gain
+        <b>Winter:</b> 5 miles when the road between Eldora township and the Hessie trailhead is closed in the winter season. Users
+        should be aware that the area at and above Lost Lake is known <b>avalanche</b> terrain during the winter season. To access Bryan
+        Mountain, follow the old mining trail above the southeast corner of Lost lake. Expect some <i>bushwhacking</i> through the forest
+        in the middle part of route. The latter part of the route is relatively level and follows the cutout through the forest
+        above the natural gas pipeline. A GPS track of the Lost Lake-Pipeline route can be obtained by clicking: Lost Lake-Pipeline
+        to Årestua Hut GPS Track.
+    </string>
+    <string name="warning">Hiking and trekking are potentially dangerous. There is the possibility of bodily injury or death. You are solely
+        responsible for learning good wilderness trekking techniques, including those for emergency situations, and for exercising
+        good and prudent judgement when hiking and trekking.
+    </string>
+    <string name="title_activity_main2">WARNING:</string>
+    <string name="title_activity_main3">Lost Lake Route to Årestua Hut</string>
+    <string name="title_activity_main4">CMC Boulder Group</string>
+    <string name="hut"><b><i>Årestua Hut</i></b></string>
+    <string name="genInfo"><b><i>General Info:</i></b> Owned and administrated by the Boulder Group of the Colorado Mountain Club (303-554-7688),
+        under agreement with the U.S. Forest Service, Roosevelt National Forest district. David Miller is the present volunteer Hutmeister,
+        maintaining the calendar and coordinating seasonal preparation and upkeep of the Årestua Hut. The Boulder Group built the Årestua Hut
+        (aka Guinn Mt. Cabin) in 1969, a cozy and secluded relative of the better-known Brainard Lake Cabin. The Årestua Hut is located at
+        11,000 feet on the north side of Guinn Mountain, and provides a winter shelter for Nordic &amp; Backcountry skiers, snowshoers, and shelter
+        for summer hikers from afternoon rainshowers. The Årestua Hut has breathtaking views of the Front Range and the high plains.</string>
+    <string name="ADA"><b>** Alternative formats of this information are available on request to people with disabilities.**</b></string>
+    <string name="EOP">In accordance with the Federal law and U.S. Department of Agriculture policy, this institution is prohibited from
+        discriminating on the basis of race, color, national origin, sex, age or disability. (Not all prohibited bases apply to all programs.)
+        To file a complaint of discrimination: write USDA, Director,Office of Civil Rights, Room 326-W, Whitten Building, 1400 Independence
+        Avenue SW, Washington, D.C. 20250-9410 or call (202) 720-5964 (voice and TDD). USDA is an equal opportunity provider and employer.</string>
+    <string name="title_activity_main5">Equal Opportunity Provider</string>
+    <string name="copyRight">© 1996 – 2018 Colorado Mountain Club, All Rights Reserved</string>
+    <string name="questions">Any other questions? Send an email to the Cabin Committee:  cabins@cmcboulder.org</string>
+    <string-array name="links">
+        <item>http://www.cmcboulder.org/cabin-brainard.html</item>
+        <item>http://www.the-webcam-network.com/Colorado-USA/Eldora/2978764.html</item>
+        <item>http://www.fs.usda.gov/recarea/arp/recreation/hiking/recarea/?recid=28286&amp;actid=91</item>
+        <item>http://calendar.yahoo.com/arestuahut</item>
+        <item>https://www.fs.usda.gov/arp</item>
+        <item>https://www.fs.usda.gov/alerts/arp/alerts-notices</item>
+        <item>https://www.eldora.com/the-mountain/snow-grooming-report/</item>
+        <item>http://www.mountain-forecast.com/peaks/James-Peak/forecasts/3500/</item>
+        <item>http://avalanche.state.co.us/forecasts/backcountry-avalanche/front-range/</item>
+        <item>http://www.avalanche.org/accidents.php?date=2001–2002/</item>
+        <item>http://www.summitpost.org/rollins-pass-eldora-to-fraser-or-winter-park-ski-traverse/929761/</item>
+        <item>https://www.colorado.gov/dola/search-and-rescue-fund/</item>
+        <item>http://www.cmcboulder.org/cabin-arestua.html?media=mobile/</item>
+    </string-array>
+    <string name="AmenitiesWoodStove">
+        Wood stove- The hut has a wood-fired stove, proven to warm the cabin on the coldest winter nights
+        (where the outside temperature on windy Guinn mountain can get below -20 F). A supply of wood is prepared each
+        autumn for the winter season. Overnight visitors are advised to bring fire-starting essentials for the stove.
+        It helps to keep the door open when lighting the stove. The door should be shut soon after a fire is burning,
+        so that the stove will run more efficiently. Once the door is shut, the slider on the bottom of the door may be
+        adjusted to control the burn rate.
+    </string>
+    <string name="AmenitiesFires">
+        Fires: Please do not create fires or construct a fire ring near the hut as this goes against our operating permit
+        with the Forest Service. A fire extinguisher is provided at the hut in the event of issues with the wood stove,
+        cooking of food, or should you encounter a nearby fire. Additional information is provided here for those that may
+        be traveling through the nearby wilderness areas. Note that Stage 1 and Stage 2 fire restrictions do not apply the
+        hut (which uses an indoor wood stove, with a spark arrestor installed). Those camping in the nearby Indian Peaks or
+        James Peak wilderness areas may wish to consult the USDA Forest Service website regarding fire restriction orders
+        and maps by clicking: Forest Service. Active advisories will be listed in the “Alerts and Warnings" box on the right.
+    </string>
+    <string name="AmenitiesWater">
+        Potable Water: During the winter season, water is obtained by melting the snow around the cabin. Snow
+        melting does not require treating the water, if brought to a rolling boil for 3 minutes. For additional information
+        on water and its treatment in the Rocky Mountain backcountry, can be accessed by clicking: CDC). Some visitors may
+        prefer to bring a water filter to remove contamination (pine needles or soot deposited from the cabin stove). During
+        the summer season, the closest water source is roughly one half mile east along the Guinn mountain trail at the
+        springs near the base of the steep uphill to Guinn mountain (look near N39.93955 W105.63489 at 10,665 ft elevation).
+        Visitors often find the trek to obtain water in the summer does limit summer visits to the hut.
+        Food and cooking: While the wood stove works well for warming the hut and melting snow, it is not sufficient for cooking.
+        Overnight visitors are advised to bring a separate backpacking stove for meals. A basic supply of cookware (pans, dishes,
+        and mugs) and eating utensils is stored at the hut. Please do not leave food at the hut (mice).
+    </string>
+    <string name="SolarPanel">
+        Solar panel, LED lights, and USB charger: The CMC is grateful to the OG Power Station company in Boulder for donating an LED
+        light system, supported by a solar panel and battery. To be prepared for travel to a remote wilderness location, and because
+        prolonged winter weather can drain the light system, all visitors are advised to bring an emergency light (headlamp). PLEASE
+        DO NOT BRING CANDLES TO THE HUT. The electrical system may also be used to charge devices from the dual USB outlet. To prevent
+        draining the battery during extended bad weather, the 120V AC outlet is normally disabled except for work projects (using power
+        tools) at the hut. Please always leave the two big red switches “on”. [Page 1 of 2]
+    </string>
+    <string name="SolarPanel2">
+        They are designed to separately disconnect the solar panel or battery for maintenance or in the event of an emergency. The system
+        will give a warning if the battery voltage becomes too low (9.5V DC on the meter above the USB outlet). The system will automatically
+        shut down for lower voltage (7V DC) to prevent damage to the battery. Please email the Hutmeister in either event. The solar panel
+        will not work if it is covered by snow or shaded by a snow drift. The effectiveness of the panel is greatly reduced even when it is
+        partly covered by snow - for example, just the bottom row of cells. Please remember to clean the entire panel (use a broom) and create
+        an adequate cutout in the drift (shovel is OK) on the roof (free from shadows through the day) before you leave. Small amounts of ice
+        may melt off if snow is removed from the panel. If there is substantial snow accumulation, the chimney may need to be unblocked too!
+        (or it will smoke out the cabin).
+        [Page 2 of 2]
+    </string>
+    <string name="Outhouse">
+        Outhouse: A separate primitive outhouse is located southeast of the hut. After each use, each user should remember to add a scoop
+        of sawdust to the outhouse to aid the composting process. Two signs that can be seen from the east deck of the hut indicate the
+        location of the outhouse. As a reminder please do not pee elsewhere near the cabin, because that area is the source of the snow to
+        melt for drinking water. Overnight visitors are advised to bring their own toilet paper for the outhouse facility to be sure paper
+        is present.
+    </string>
+    <string name="DoorLatch">
+        Door and latch: The hut door features a weighted self-closing mechanism. The door also features a freeze resistant traditional latch
+        in the style of other Nordic huts. The mechanical nature of the latch mechanism can malfunction in cold weather, potentially locking
+        you out. In such a situation, in order to discourage breaking the door, access the cabin via the window as alternate entrance (the window
+        lock has been removed for just this situation). Please email the Hutmeister if you encounter any problems with the door.
+    </string>
+    <string name="Rules">
+        The guidance for visitors posted at the hut is also listed here for reference. In addition to these rules, visitors are
+        reminded of the general guidance to act as good stewards of the hut. For example, please shovel snow off of the east deck to limit its
+        weight and prevent damage to the deck.
+            ************************************************
+            DO NOT LEAVE A FIRE IN THE WOOD STOVE
+            ***COOK STOVES MAY ONLY BE USED ON THE PROTECTED KITCHEN COUNTER TOP
+            ***DO NOT SPLIT OR CHOP FIREWOOD IN THE HUT OR ON THE PORCH
+            ***SUMMER USERS MAY NOT USE FIREWOOD; IT IS PREPARED FOR WINTER USE
+            ***USE THE OUTHOUSE: DO NOT POLLUTE THE SNOW (THE SOURCE FOR DRINKING WATER IN THE WINTER)
+            ***DO NOT DISPOSE OF TRASH IN THE OUTHOUSE
+            ***PACK OUT WHAT YOU PACK IN
+            ***DO NOT LEAVE FOOD, BECAUSE OF MICE
+            ***BEFORE YOU LEAVE, CLEAN AND TIDY UP FOR THE NEXT GROUP, AND TO PREVENT MICE
+            ***USE FEE: $1/DAY, $5/NIGHT, PER PERSON
+            ************************************************
+    </string>
+    <string name="FS_Permit">
+        The original “conditions of occupancy and use for the Guinn mountain hut” are reproduced here to document
+        and summarize the operating agreement: “In accordance with the special use permit issued to the Colorado Mountain Club on
+        June 24, 1969, and the regulations of the Secretary of Agriculture (36 C.F.R. 251.24 and 251.25), the following conditions of occupancy
+        and use for the Guinn Mountain Hut are hereby established: No person, party, or organization shall occupy said hut for more than
+        three consecutive nights. The use of said hut shall be available to the general public as well as the Colorado Mountain Club members
+        on a first-come first-served basis. No reservations are required or permitted. All non-burnable refuse shall be removed from the
+        national Forest. Garbage or trash shall not be buried." [Page 1 of 2]
+        </string>
+    <string name="FS_Permit2">
+    "First Aid and other emergency equipment provided and maintained by the Colorado Mountain Club shall be used only when appropriate and necessary.
+    Open fires are not permitted within three hundred yards of said hut except in the stone and concrete fireplace provided and maintained by the
+    Colorado Mountain Club. Use only dead or downed timber for firewood. No fireworks or firearms may be stored within three hundred yards of said
+    hut except in the stone and concrete fireplace provided and maintained by the Colorado Mountain Club. The conditions are necessary to promote
+    public health, safety, welfare, and convenience. A violation may result in a fine not more than $500.00 and imprisonment for not more than
+    six months, or both.”
+    Signed Frauz Mohling, President Colorado Mountain Club-Boulder Group; Signed K. Kelso, Roosevelt National Forest Ft. Collins, Colorado
+    dated February 16, 1970 [Page 2 of 2]
+    </string>
+    <string name="Snow_WeatherReportsDayUse"> \Snow&amp;Weather Reports: Eldora Ski Resort is the nearest winter trailead: Eldora Snow Report.
+        James peak weather report (nearest proxy near the hut): James peak weather.
+        Colorado avalanche conditions: CAIC.
+        Skiing and Recreation
+        Day visits: In the winter, the hut is often used as a day destination for skiers using the Jenny Creek route. The trails are marked
+        (blue diamonds and signs) and you will typically find the trail broken in by hut visitors. Recent snowstorms or snow drifting from the
+        wind may, however, require trail breaking along any section of the approach. Even a day visit is a worthy and rewarding trip. Day
+        users should keep an eye out for highlights along the trail, including views of the mountains ahead along the downhill section from Eldora,
+        the icy (in winter) section along Jenny creek, the natural tunnel of trees at the end of one of the biggest uphill sections, and the ruins of
+        the miner\'s cabin near the crux uphill onto Guinn mountain.
+    </string>
+    <string name="DayTrips">
+        Day destinations from the hut: It\'s well worth starting your trip early enough in the day to venture above the hut. Great views of landmarks
+        including James Peak, Needles Eye tunnel, Yankee Doodle lake, and South Arapaho peak can be taken in from the summit of Guinn mountain or the
+        ridge to Hell Hill. The view of the sunset on James peak is memorable from Guinn mountain, but don’t forget the shadow of the Continental Divide
+        is cast early in the winter. Yankee Doodle lake, Jenny lake, and Forest lakes off of Rollins Pass road are good day destinations for those making
+        an extended stay at the hut. Visitors should expect to find the infamous winds of Indian Peaks wilderness are a true equalizer relative to the
+        coldest US winter locations, and are reminded to bring plenty of clothing to stay warm and prevent frostbite.
+    </string>
+
+    <string name="BackcountryUse">
+        Backcountry use: Backcountry skiing may be found near the hut, e.g., the southeast side of Guinn mountain. The south facing gully between Guinn
+        and Bryan mountains offers a ~1000’ descent from the Pipeline trail to Jenny creek. Bryan mountain has become a popular backcountry destination.
+        Skiers are reminded that the high altitude area near the hut contains avalanche terrain. For example, on November 28, 2001 one of two skiers were
+        drowned after being swept under the ice by an avalanche while descending the steep slopes above Yankee Doodle Lake. A report on that incident may
+        be accessed, by clicking: avalanche.org.
+    </string>
+    <string name="Emergencies">
+        In the Event of Emergency: Intermittent cellular phone service (including an internet connection to this webpage) may be achieved at the hut through
+        the tower at nearby Bryan Mountain. The quality of connection typically does not improve higher up on the summit of Guinn Mountain. More consistent
+        reception may be obtained along the Lost Lake trail closer to Bryan mountain at 1/3 mile from the hut at N39.94273 W105.63914 at 10,956 ft.
+        In the event of an emergency, visitors are advised to have a communications liaison go to the above location and dial 911 to reach the Boulder county
+        or Gilpin County sheriff office, or be forwarded to Search And Rescue.
+        Information regarding Colorado Outdoor Recreation Search and Rescue and related membership may be accessed by clicking: CORSAR. Consider a membership
+        or donation as CORSAR receives limited public funds to support its operations.
+    </string>
+    <string name="ContinentalDivide">
+         Eldora-Winter Park/Frasier traverse: The hut may be used as a base camp or as a resting point for those
+        touring between Eldora and Winter Park. Information on the long ski touring routes crossing the Continental Divide may be obtained by clicking:
+        Touring Information. Visitors should expect to find the infamous winds of Indian Peaks wilderness are a true equalizer relative to the coldest US
+        winter locations, and are reminded to bring plenty of clothing to stay warm and prevent frostbite.
+    </string>
+    <string name="Dogs">
+        Because the area near the hut is commonly sourced for the snow melted for drinking water, it is requested that visitors not bring their dogs to
+        the hut during the winter season, which runs from November 1 through May 31.  Moose tracks have also been seen on the Jenny Creek trail in winter.
+        Moose and dogs don\'t mix!  Meese are bigger and don\'t like being bothered! :)
+    </string>
+    <string name="LostFoundAndEvents">
+        Lost and Found: Occasionally there are items that get left at the hut. Inquire about lost and found items with the Hutmeister.
+        Upkeep and Events: The hut is solely maintained by users and volunteers (i.e., YOU!).
+        The suggested donation to cover maintenance costs and the supplies related to operation of the hut is: Day Use $1, Overnight $5 per person.
+        No cash? Donate on PayPal via email to brainardcabin [at] gmail [dot] com. Please note \'To Arestua hut\' in your PayPal donation to make
+        it easier to recognize, and to put your donation towards the cabin. PLEASE attend the fall work party to prepare firewood and ready the hut
+        for use through the following year. Contact the Hutmeister (arestuahut [at] yahoo.com) for an invitation, take an information card (available
+        near the donations box at the hut), or add your own email to a card and leave it in the donations box. Each year there are typically a few
+        separate days in the summer or early autumn related to specific projects at the hut.
+    </string>
+    <!--activity titles-->
+    <string name="title_activity_main6">Amenities-Wood stove</string>
+    <string name="title_activity_main7">Amenities-Fires&amp;Restrictions</string>
+    <string name="title_activity_main8">Amenities-Water&amp;Cooking</string>
+    <string name="title_activity_main9">SolarPanel</string>
+    <string name="title_activity_main10">Backcountry Use</string>
+    <string name="title_activity_main11">Outhouse</string>
+    <string name="title_activity_main12">Door and Latch</string>
+    <string name="title_activity_main13">Rules of Use</string>
+    <string name="title_activity_main14">Forest Service Permit</string>
+    <string name="title_activity_main15">Snow and Local Weather</string>
+    <string name="title_activity_main16">Continental Divide Traverse</string>
+    <string name="title_activity_main17">Lost &amp;Found, Volunteering</string>
+    <string name="title_activity_main18">Dogs are great except when...</string>
+    <string name="title_activity_main19">Forest Service Permit</string>
+    <string name="title_activity_main20">Day Trips</string>
+    <string name="title_activity_main21">Emergencies</string>
+    <string name="title_activity_main22">Solar Panel</string>
+</resources>

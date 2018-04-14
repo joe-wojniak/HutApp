@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="blog.globalquality.hutapp.MainActivity">
+
+    <ScrollView
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/hut"
+                    style="@style/TextAppearance.AppCompat.Title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:text="@string/hut" />
+
+
+                <ImageView
+                    android:id="@+id/logoSmall"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="175dp"
+                    android:src="@drawable/cmclogosmall" />
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/genInfo"
+                style="@style/Base.TextAppearance.AppCompat.Body2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/logoSmall"
+                android:padding="5dp"
+                android:text="@string/genInfo" />
+
+            <TextView
+                style="@style/Base.TextAppearance.AppCompat.Body2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/genInfo"
+                android:padding="5dp"
+                android:text="@string/questions" />
+
+            <TextView
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:padding="5dp"
+                android:text="@string/title_activity_main" />
+
+            <TextView
+                style="@style/Base.TextAppearance.AppCompat.Body2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:padding="5dp"
+                android:text="@string/AxsJCrk" />
+
+
+            <TextView
+                style="@style/Base.TextAppearance.AppCompat.Small"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:padding="10dp"
+                android:text="@string/warning" />
+
+            <Button
+                android:id="@+id/nextPageButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="next page" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:text="@string/copyRight"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </ScrollView>
+
+    <!---->
+    <!--DONE Disclaimer: Tech won't save your life!-->
+    <!--TODO Reduce the number of activities (activity_mainXX.xml & .java) -->
+    <!--TODO Add a Method to send email. See Commented Example code in activity_main.java -->
+    <!--TODO Dial CMC when phone # is clicked -->
+    <!--TODO 10 Essentials Intro-->
+    <!--TODO Hut info from website-->
+    <!--TODO Hut FAQs-->
+    <!--TODO How to get there- Jenny Creek, Hessie-Lost Lake routes Google map function & bread crumbs/go back feature)-->
+    <!---->
+    <!--TODO Read & store power info from USB port at hut-->
+    <!--TODO Good Hut User Rating System -->
+    <!--TODO Kilroy Was Here!-->
+    <!---->
+    <!--TODO Donations-->
+    <!--TODO Battery power saver function-->
+    <!---->
+    <!--TODO Cache emails to Hutmeister-->
+    <!--TODO Reservation calendar-->
+    <!---->
+    <!--TODO Q&A between hut users-->
+    <!--TODO Calendar event reminders-->
+    <!---->
+    <!--TODO Know Before You Go- CAIC & NWS forecasts, info, & alerts -->
+    <!--TODO Cell service locator- indicate direction & distance, signal strength-->
+    <!--TODO Leave No Trace Principles-->
+    <!---->
+    <!--TODO Start of Stay reminders-->
+    <!--TODO End of Stay reminders-->
+    <!---->
+
+</android.support.constraint.ConstraintLayout>
